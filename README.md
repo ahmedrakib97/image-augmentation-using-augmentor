@@ -8,7 +8,10 @@ Clone the repository
 
 `git clone https://github.com/ahmedrakib97/image-augmentation-using-augmentor.git`
 
-#### Installation Process ####
-Install augmentor library with this code
+####Install augmentor library with this code####
 
 `pip install augmentor`
+
+
+####Sample Image####
+<img src="images/test.jpg" width="100px">
